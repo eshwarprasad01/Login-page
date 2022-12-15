@@ -1,30 +1,31 @@
 .container {
-  margin: 130px auto 43px auto;
+  margin: 8.125rem auto 2.6875rem auto;
   border: 2px solid #379237;
   text-align: center;
-  height: 500px;
-  width: 400px;
-  border-radius: 60px 10px 60px 10px;
+  height: 31.25rem;
+  width: 25rem;
+  border-radius: 3.75rem 0.625rem 3.75rem 0.625rem;
   border-width: 3px;
-  /* margin: 0 auto 0 auto; */
 }
 
 h1 {
   margin: auto;
 }
 .row {
-  border-radius: 56px 6px 0 0;
-  padding: 20px;
-  height: 90px;
-  width: 394px;
+  border-radius: 3.5rem 0.3756rem 0 0;
+  height: 5.625rem;
+  padding: 1.25rem;
+  height: 5.625rem;
+  height: 5.625rem;
+  width: 24.625;
   background-color: #b3ffae;
 }
 .input-group-text {
   border-radius: 5px 0 0 5px;
-  height: 40px;
+  height: 2.5rem;
 }
 .btn {
-  width: 200px;
+  width: 12.5rem;
 }
 hr {
   border-style: dotted none none none;
